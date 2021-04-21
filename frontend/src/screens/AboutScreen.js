@@ -25,9 +25,6 @@ const About = () => {
           <p>With unwavering passion for Performance Enhancing Corporate Culture, we focus majorly on  total IT Training and Certifications backed up with in-house Software Development which is aimed at transforming and re-defining the individual to positively impact the world.
 
             As we compete to become a global brand, we create class and impressionable branding for personalities and organisations by providing a rich blend of ethics, excellent service experience and best work practice and training that will leverage skills for the next century. </p>
-            <div className="col-md-6">
-          <img src="/https://source.unsplash.com/random/700x700/?technology" alt="" className="img-fluid rounded-circle d-none d-md-block about-img" />
-          </div>
         </div>
       </div>
     </div>
