@@ -53,8 +53,8 @@ const About = () => {
           <div className="col-md-6">
           <h3>Mr Emmanuel Okoro</h3>
           <div><h3>FOUNDER/CEO</h3></div>
-          <p>Mr Okoro ( FCA, FICA, M.Sc, KSJI ) is a consummate Finance professional with over 26years stint in Accounting, Banking and Treasury Management garnered from Banking and Telecommunication industry-giants. Also, a passionate practitioner in the Health and Wellness industry.A family person, happily married to Lady Beatrice Chikamnele Okoro with three lovely daughters
-          A faith teacher who relaxes listening to good music and reading. 
+          <p><b>Mr Okoro ( FCA, FICA, M.Sc, KSJI ) is a consummate Finance professional with over 26years stint in Accounting, Banking and Treasury Management garnered from Banking and Telecommunication industry-giants. Also, a passionate practitioner in the Health and Wellness industry.A family person, happily married to Lady Beatrice Chikamnele Okoro with three lovely daughters
+          A faith teacher who relaxes listening to good music and reading.</b> 
         </p>
         </div>
       </div>
@@ -70,7 +70,7 @@ const About = () => {
           <div className="col-md-6">
           <h3>Mr Ralph Emmason</h3>
           <div><h3>Software Engineer</h3></div>
-          <p>Mr Emmason, has Bachelor of Science-BS, Computer Science from  University of the Witwatersrand, Johannesburg, South Africa. He has a wealth of experience in Technologies and Archetecture having worked in various technological companies like Microsoft, Cisco and Banks, in the early days of internet banking he developed a transactionl saver application linking to e-wallet for the bank that earned him an award, also ebay. He is rated by American international company called UPWORK as a TOP Software Engineer. He is a Father 
+          <p><b>Mr Emmason, has Bachelor of Science-BS, Computer Science from  University of the Witwatersrand, Johannesburg, South Africa. He has a wealth of experience in Technologies and Archetecture having worked in various technological companies like Microsoft, Cisco and Banks, in the early days of internet banking he developed a transactionl server application linking to e-wallet for the bank that earned him an award, also ebay. He is rated by American international company called UPWORK as a TOP Software Engineer, He is a Microsoft Certified Partner (MCP) and an Associate Member of Computer Society of South Africa</b>
           </p>
         </div>
       </div>
